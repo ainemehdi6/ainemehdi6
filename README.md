@@ -1,0 +1,4 @@
+- 👋 Hi, I’m EL MEHDI EL AINE
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP and Python
+- 
