@@ -1,4 +1,1 @@
-- 👋 Hi, I’m EL MEHDI EL AINE
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP and Python
-- 
+- 👋 Hi, I’m EL MEHDI EL AINE ,i'm interested in Web Development and i’m currently learning PHP and Python
