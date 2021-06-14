@@ -14,7 +14,10 @@ I'm EL Mehdi El Aine, I really enjoy learning languages and frameworks like reac
 
 ## Exemples of work :
 ### <a href="https://github.com/ainemehdi6/NEW-MHD-STR">MHD STR</a>
-<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home1.PNG" width="240" height="180"/>
-<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home2.PNG" width="240" height="180"/>
-<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home3.PNG" width="240" height="180"/>
-<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home4.png" width="240" height="180"/>
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home1.PNG" />
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home2.PNG"/>
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home3.PNG" />
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home4.png" />
+
+### <a href="https://github.com/ainemehdi6/EasyGio">EasyGio</a>
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home1.PNG" />
