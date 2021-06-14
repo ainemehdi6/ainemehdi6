@@ -16,4 +16,4 @@ I'm EL Mehdi El Aine, I really enjoy learning languages and frameworks like reac
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home1.PNG"></img>
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home2.PNG"></img>
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home3.PNG"></img>
-<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home4.PNG"></img>
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home4.png"></img>
