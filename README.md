@@ -13,7 +13,7 @@ I'm EL Mehdi El Aine, I really enjoy learning languages and frameworks like reac
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ainemehdi6/ainemehdi6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elmehdielaine//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehdi.aine.36/)  
 
 ## Exemples of work :
-<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home1.PNG"></img>
+<img href="https://github.com/ainemehdi6/NEW-MHD-STR" src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home1.PNG"></img>
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home2.PNG"></img>
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home3.PNG"></img>
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/Home4.png"></img>
