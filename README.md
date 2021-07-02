@@ -21,3 +21,4 @@ I'm EL Mehdi El Aine, I really enjoy learning languages and frameworks like reac
 
 ### <a href="https://github.com/ainemehdi6/EasyGeo">EasyGeo</a>
 <img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/ss.png" />
+<img src="https://github.com/ainemehdi6/ainemehdi6/blob/main/EasyGeo.png" />
