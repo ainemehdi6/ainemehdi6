@@ -7,7 +7,7 @@ I'm EL Mehdi El Aine, I really enjoy learning languages and frameworks like reac
 - 💻 HTML , CSS , PHP , JavaScript,React 
 - 🤖 Python, C++, Java
 - 🗃️ MySql, Oracle, SQL, SQL+
-- 🌱 I’m currently learning Laravel  
+- 🌱 I’m currently learning Symfony  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ainemehdi6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elmehdielaine/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mehdi.aine.36/)  
